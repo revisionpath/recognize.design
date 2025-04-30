@@ -1,0 +1,26 @@
+/*
+ * This CSS file has been generated and is served by Persona.co
+ * and is authorized to be used on Persona only. 
+ *
+ * This CSS resource incorporates links to font software which is 
+ * the valuable copyrighted property of WebType LLC, The Font Bureau 
+ * and/or their suppliers. You may not 
+ * attempt to copy, install, redistribute, convert, modify or reverse 
+ * engineer this font software. Please contact WebType with any 
+ * questions: http://www.webtype.com 
+ */
+
+@font-face {
+  font-family: "Nitti Grotesk";
+  src: url("https://type.persona.co/NittiGrotesk/b81086a2-5ae3-4417-b202-2f3527621478-3.woff?Expires=1604459036&Signature=G2MBk-Cdh592IX-zyJ-Pq8IHPm5Zz1dp6sorXXweW7FaxCExqH7PZMMmdJR7zszk7Q5Me9fw9JA4UfTTh5tECVWB3~itl8ZuI5JOEEH8B6mGVP1nqBWjV4FOFY71rvkY4PJWPzHijQ-OZR2opWtADKFfMUCO69RrMPXZcejm7MU2qEKl~1gCtHmiFgtKjLTp~RoorZH65L0rHqVyXSVpGtzEF9Ej-1RySmTInd3z1UZ~lW--LqQTGV~gm~v9GC96VVyrzCbnQtPPNz8ctfIgRiEoaliECluaCiz4idkklN3pzHLYhg68ASCO4sNuoSL7zjP4Ae6x8ELrrxyVatYXBg__&Key-Pair-Id=APKAJF6QV4IIZQBZN32Q") format("woff");
+  font-style: normal;
+  font-weight: normal;
+  unicode-range: U+0000-DFFF, U+F900-FFFD;
+}
+@font-face {
+  font-family: "Nitti Grotesk";
+  src: url("https://type.persona.co/NittiGrotesk/52af5be8-4bb6-43ad-b99d-a62836aab6f4-3.woff?Expires=1604459036&Signature=X9xZy-tOVI8y8ok6cLE9ydflJCnsVdiM1FoHxP4~6n2IW~frCH0TAt64HBe01QFatV6AiWzm6Tju0ElIeyQRoY5-RXFfrG7lDnmPvYp8WzvEXitAobFsXhSjSZUu~5XO2hmjGyeYQ5dEZ-kHYmgjRXQcKpAeMOuKder9IBcPfoDSvCC1WdZxYbiLhb~04UwtI0kPJOLOHuFvJfZ7oHGxrwDKN9o-Tj1u5CiA930Z3efOaVNk52b47Cv9y1yRov2xsIlZWdUVCSLDeZT02uEwg5q~JXbb4EkBKtgb~5bW4o0cAQG8L7Fqv4T18zVFML8O068fwuxWwyUVS5Dch8ZQxw__&Key-Pair-Id=APKAJF6QV4IIZQBZN32Q") format("woff");
+  font-style: normal;
+  font-weight: bold;
+  unicode-range: U+0000-DFFF, U+F900-FFFD;
+}
